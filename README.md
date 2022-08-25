@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CetINV
+- 👀 I’m interested in ... GeoSpatial Data
+- 🌱 I’m currently learning ... Basic Python codiing for use with GeoSpatial Data
+- 💞️ I’m looking to collaborate on ... LiDAR based data analysis and exploitation
+- 📫 How to reach me ... Email: taycole94@gmail.com / WhatsApp: +260 77 000 555 0
